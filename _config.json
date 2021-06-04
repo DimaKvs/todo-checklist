@@ -1,0 +1,16 @@
+{
+    "test": {
+      "database": "mongodb+srv://admin:admin@cluster0.jpwbd.mongodb.net/todos-test?retryWrites=true&w=majority",
+      "dbConfig": {
+        "useUnifiedTopology": true,
+        "useNewUrlParser": true
+      }
+    },
+    "dev": {
+      "database": "mongodb+srv://admin:admin@cluster0.jpwbd.mongodb.net/todos?retryWrites=true&w=majority",
+      "dbConfig": {
+        "useUnifiedTopology": true,
+        "useNewUrlParser": true
+      }
+    }
+}
