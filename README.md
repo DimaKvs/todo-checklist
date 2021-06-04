@@ -1,7 +1,7 @@
 # todo-checklist
 
-#to run app
+#to run app -
 npm run build
 
-#for testing
+#for testing -
 npm test
